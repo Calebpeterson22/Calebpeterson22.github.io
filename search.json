@@ -1,28 +1,56 @@
 [
   {
-    "objectID": "story_telling.html",
-    "href": "story_telling.html",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Caleb Peterson’s CV",
+    "section": "",
+    "text": "pet22063@byui.edu | (727) 505-0536\n\n\n\n2nd Year Student at Brigham Young University - Idaho\n\n\n\n2015-2019 Etowah High School, Woodstock\nJanuary 2023 - now Brigham Young University - Idaho, Rexburg\n\n\n\n2019 Brand Associate, Banana Republic Factory Store\n2020 Volunteer Missionary, The Church of Jesus Christ of Latter-Day Saints\n2023 Warehouse Laborer, Admiral Beverage Corporation"
+  },
+  {
+    "objectID": "resume.html#currently",
+    "href": "resume.html#currently",
+    "title": "Caleb Peterson’s CV",
+    "section": "",
+    "text": "2nd Year Student at Brigham Young University - Idaho"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Caleb Peterson’s CV",
+    "section": "",
+    "text": "2015-2019 Etowah High School, Woodstock\nJanuary 2023 - now Brigham Young University - Idaho, Rexburg"
+  },
+  {
+    "objectID": "resume.html#occupation",
+    "href": "resume.html#occupation",
+    "title": "Caleb Peterson’s CV",
+    "section": "",
+    "text": "2019 Brand Associate, Banana Republic Factory Store\n2020 Volunteer Missionary, The Church of Jesus Christ of Latter-Day Saints\n2023 Warehouse Laborer, Admiral Beverage Corporation"
+  },
+  {
+    "objectID": "Cleansing_Projects/project4.html",
+    "href": "Cleansing_Projects/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "exploration.html",
+    "href": "exploration.html",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
+    "objectID": "exploration.html#title-2-header",
+    "href": "exploration.html#title-2-header",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics"
@@ -56,18 +84,18 @@
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "Cleansing_Projects/project4.html",
-    "href": "Cleansing_Projects/project4.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "story_telling.html",
+    "href": "story_telling.html",
+    "title": "about me",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "MarkDown Basics"
   },
   {
-    "objectID": "Cleansing_Projects/project2.html",
-    "href": "Cleansing_Projects/project2.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "story_telling.html#title-2-header",
+    "href": "story_telling.html#title-2-header",
+    "title": "about me",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "MarkDown Basics"
   },
   {
     "objectID": "cleansing.html",
@@ -79,41 +107,6 @@
   {
     "objectID": "cleansing.html#title-2-header",
     "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Projects/project5.html",
-    "href": "Cleansing_Projects/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "exploration.html",
-    "href": "exploration.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics"
@@ -133,31 +126,38 @@
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Caleb Peterson’s CV",
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
     "section": "",
-    "text": "pet22063@byui.edu | (727) 505-0536\n\n\n\n2nd Year Student at Brigham Young University - Idaho\n\n\n\n2015-2019 Etowah High School, Woodstock\nJanuary 2023 - now Brigham Young University - Idaho, Rexburg\n\n\n\n2019 Brand Associate, Banana Republic Factory Store\n2020 Volunteer Missionary, The Church of Jesus Christ of Latter-Day Saints\n2023 Warehouse Laborer, Admiral Beverage Corporation"
+    "text": "MarkDown Basics"
   },
   {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Caleb Peterson’s CV",
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
     "section": "",
-    "text": "2nd Year Student at Brigham Young University - Idaho"
+    "text": "MarkDown Basics"
   },
   {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Caleb Peterson’s CV",
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "2015-2019 Etowah High School, Woodstock\nJanuary 2023 - now Brigham Young University - Idaho, Rexburg"
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Caleb Peterson’s CV",
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "2019 Brand Associate, Banana Republic Factory Store\n2020 Volunteer Missionary, The Church of Jesus Christ of Latter-Day Saints\n2023 Warehouse Laborer, Admiral Beverage Corporation"
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html",
+    "href": "Cleansing_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   }
 ]
